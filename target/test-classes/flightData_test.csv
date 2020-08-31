@@ -1,0 +1,4 @@
+passengerId,flightId,from,to,date
+1,1,fromTest1,toTest1,2020-01-01
+2,1,fromTest1,toTest1,2020-01-01
+3,1,fromTest1,toTest1,2020-01-01
